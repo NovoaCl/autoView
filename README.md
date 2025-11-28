@@ -4,7 +4,7 @@ Proyecto de práctica orientado a objetos — una herramienta académica desarro
 
 ---
 
-## 🧠 ¿Qué es autoView?
+## ¿Qué es autoView?
 
 `autoView` es un proyecto en Java diseñado como ejercicio práctico de Programación Orientada a Objetos (POO). Consiste en una aplicacion de escritorio que permite agregar modelos de auto y su color a una base de datos mysql. 
 Este proyecto puede servir como:
@@ -14,7 +14,7 @@ Este proyecto puede servir como:
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **Java 21**
 - **Apache Maven**
