@@ -1,6 +1,6 @@
 # autoView
 
-Proyecto de práctica orientado a objetos — una herramienta académica desarrollada para reforzar conceptos de Programación Orientada a Objetos en Java.
+Proyecto de práctica orientado a objetos — una herramienta académica desarrollada con Java Swing y Maven para reforzar conceptos de Programación Orientada a Objetos en Java.
 
 ---
 
