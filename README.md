@@ -26,8 +26,8 @@ Este proyecto hace uso de las siguientes tecnologías:
 -  **JDBC (Java Database Connectivity)** – Conexión a base de datos
 -  **MySQL** – Base de datos relacional
 -  **XAMPP** – Para levantar los servicios de:
-  - Apache
-  - MySQL (puerto **3306**)
+    . Apache
+    . MySQL (puerto **3306**)
 
 ---
 
