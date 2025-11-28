@@ -6,7 +6,7 @@ Proyecto desarrollado en **Java 21** como ejercicio práctico de Programación O
 
 ##  ¿Qué es autoView?
 
-`autoView` es una aplicación de escritorio desarrollada con Java Swing que permite visualizar y gestionar información relacionada con vehículos desde una base de datos mysql, aplicando buenas prácticas de Programación Orientada a Objetos y conexión a bases de datos relacionales. 
+`autoView` es una aplicación de escritorio desarrollada con Java Swing que permite visualizar y gestionar información relacionada con vehículos desde una base de datos MySql, aplicando buenas prácticas de Programación Orientada a Objetos y conexión a bases de datos relacionales. 
 El proyecto busca integrar:
 - Lógica orientada a objetos.
 - Interfaz gráfica amigable.
@@ -25,9 +25,7 @@ Este proyecto hace uso de las siguientes tecnologías:
 -  **Java Swing** – Interfaz gráfica de usuario (GUI)
 -  **JDBC (Java Database Connectivity)** – Conexión a base de datos
 -  **MySQL** – Base de datos relacional
--  **XAMPP** – Para levantar los servicios de:
-    . Apache
-    . MySQL (puerto **3306**)
+-  **XAMPP** – Para levantar los servicios de: Apache y MySQL (puerto **3306**)
 
 ---
 
